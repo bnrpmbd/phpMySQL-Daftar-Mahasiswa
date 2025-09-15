@@ -284,5 +284,5 @@ This project is created for educational purposes as part of Web Programming cour
 ### 📧 Contact
 - **Developer**: Banar Pambudi
 - **Email**: banarpambudi094@gmail.com
-- **LinkedIn**: linkedin/in/banarpambudi
+- **LinkedIn**: linkedin.com/in/banarpambudi
 - **Course**: Pemrograman Web - Semester 5
